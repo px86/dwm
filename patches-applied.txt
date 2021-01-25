@@ -1,0 +1,6 @@
+dwm-bar-height-6.2.diff
+dwm-centeredmaster-6.1.diff
+dwm-colorbar-6.2.diff
+dwm-sticky-6.1.diff
+dwm-swallow-20201211-61bb8b2.diff
+dwm-vanitygaps-20190508-6.2.diff
