@@ -1,0 +1,2 @@
+* px86's build of dwm
+Applied patches are listed in /patches-applied.txt/
